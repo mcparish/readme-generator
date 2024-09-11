@@ -1,16 +1,16 @@
 # Mark's README generator
   
   ## Description
-   description of the project
+   short description about project
 
    ## Table of Contents
    n/a
    
    ## Installation
-    steps for installation
+    steps for the project
    
    ## Usage
-   instruction
+   instructions
 
    ## Questions
    https://github.com/mcparish/readme-generator

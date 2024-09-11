@@ -45,6 +45,10 @@ function generateMarkdown(data) {
    
    ## Usage
    ${data.projectUsage}
+
+   ## Questions
+   ${data.projectQuestions}
+   ${data.projectEmail}
    
    ## Credits
    ${data.projectCredits}

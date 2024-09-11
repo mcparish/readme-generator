@@ -36,6 +36,18 @@ const questions = [
         message: 'List your collaborators, if any, with links to their GitHub profiles. If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section. If you followed tutorials, include links to those here as well.'
     },
     {
+        type: 'input',
+        name: 'projectQuestions',
+        message: 'Please provide a link to your GitHub repository.',
+        
+        },
+        {
+            type: 'input',
+            name: 'projectEmail',
+            message: 'Please provide your email address so that I can reach out to you.',
+        },
+
+    {
         type: 'list',
         name: 'projectLicense',
         choices: ["GPL", "Apache2.0", "MIT", "None"],

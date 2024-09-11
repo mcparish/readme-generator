@@ -1,23 +1,27 @@
-# Mark's README generator project
+# Mark's README generator
   
   ## Description
-   this will be a short description of my project.
+   description of the project
 
    ## Table of Contents
    n/a
    
    ## Installation
-    I will list the steps here.
+    steps for installation
    
    ## Usage
-   instructions for use.
+   instruction
+
+   ## Questions
+   https://github.com/mcparish/readme-generator
+   parish09@gmail.com
    
    ## Credits
    none
 
   
   ## License
-    This project is using the MIT
+    This project is using the MIT license
      
   ![GitHub license](https://img.shields.io/badge/license-mit-blue.svg)
   
